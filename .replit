@@ -1,1 +1,2 @@
+language = "bash"
 run = "install-pkg chocolate-doom && /home/runner/.apt/usr/games/chocolate-doom -iwad ./DOOM1.WAD"
